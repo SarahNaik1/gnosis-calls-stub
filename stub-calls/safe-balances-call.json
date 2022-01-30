@@ -1,0 +1,18 @@
+{
+    "fiatTotal": "0",
+    "items": [
+        {
+            "tokenInfo": {
+                "type": "NATIVE_TOKEN",
+                "address": "0x0000000000000000000000000000000000000000",
+                "decimals": 18,
+                "symbol": "ETH",
+                "name": "Ether",
+                "logoUri": "https://safe-transaction-assets.gnosis-safe.io/chains/4/currency_logo.png"
+            },
+            "balance": "0",
+            "fiatBalance": "0",
+            "fiatConversion": "2616.6938"
+        }
+    ]
+}
