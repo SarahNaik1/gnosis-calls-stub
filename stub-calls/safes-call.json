@@ -1,0 +1,26 @@
+{
+    "address": {
+        "value": "0x806180e4e74266e641e230A03d9F19fE9d92650c"
+    },
+    "chainId": "4",
+    "nonce": 0,
+    "threshold": 1,
+    "owners": [
+        {
+            "value": "0x801d56c0a3E5967B73eEF7B50c89016F52388030"
+        }
+    ],
+    "implementation": {
+        "value": "0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552"
+    },
+    "modules": null,
+    "fallbackHandler": {
+        "value": "0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4"
+    },
+    "guard": null,
+    "version": "1.3.0",
+    "implementationVersionState": "UP_TO_DATE",
+    "collectiblesTag": "1643528065",
+    "txQueuedTag": "1643528065",
+    "txHistoryTag": "1643528065"
+}
