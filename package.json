@@ -1,0 +1,37 @@
+{
+  "name": "gnosis-calls-stub",
+  "version": "1.0.0",
+  "description": "RESTful API stubs for Gnosis calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SarahNaik1/gnosis-calls-stub.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "gnosis",
+    "metamask",
+    "rinkeby"
+  ],
+  "author": "Sarah and Sanah Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SarahNaik1/gnosis-calls-stub/issues"
+  },
+  "nodemonConfig": {
+    "ignore": ["*.json"]
+  },
+  "homepage": "https://github.com/SarahNaik1/gnosis-calls-stub#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2"
+  }
+}
